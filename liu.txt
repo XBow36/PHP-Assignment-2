@@ -14,4 +14,5 @@ Start: Sun, 10 Feb 2015 18:00:00
 End: Sun, 10 Feb 2015 23:55:00 
 Tasks: implemented delete, check out/return, the delete all nuke button. Implemented the drop down for all existing categories. 
 However running into issue on querying for all categories that has the desired category name. Even tried to use strtolower
-to make it conssistant but still not working.
+to make it conssistant but still not working. Tried to debug and figure out why it was returning a blank query with specified
+category, no luck.
