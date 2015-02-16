@@ -1,0 +1,15 @@
+Start: Tue, 10 Feb 2015 20:00:00 
+End: Tue, 10 Feb 2015 21:00:00 
+Tasks: Pulled up the github on rubric, started researching how to accomplish those tasks, read alot in depth into Mysqli.
+
+Start: Thu, 10 Feb 2015 21:00:00 
+End: Thu, 10 Feb 2015 21:30:00 
+Tasks: Tried to find some free time to start building query calls
+
+Start: Sun, 10 Feb 2015 12:00:00 
+End: Sun, 10 Feb 2015 16:30:00 
+Tasks: Tried using php calls to build a table, ultimately decided to use the GUI instead, finished building the table. Implemented adding a new movie record, formatting to print out everything to look like a table, messed around with PHP ALOT.
+
+Start: Sun, 10 Feb 2015 18:00:00 
+End: Sun, 10 Feb 2015 22:00:00 
+Tasks: implemented delete, check out/return, the delete all nuke button. Implemented the drop down for all existing categories. However running into issue on querying for all categories that has the desired category name. Even tried to use strtolower to make it conssistant but still not working.
